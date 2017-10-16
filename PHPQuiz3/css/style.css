@@ -1,0 +1,14 @@
+body{
+	background-color: #F4F4F4;
+}
+.login{
+	width: 300px;
+	margin: 100px auto;
+
+
+}
+.login input,button, h2{
+	margin-bottom: 10px;
+	
+
+}
